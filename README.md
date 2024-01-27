@@ -1,6 +1,6 @@
 # Predictive analysis of Savings Accounts
 
-Using predictive models I tried to identify opportunities to cross-sell savings accounts to new or existing customers based on their behavior and characteristics.
+Using a predictive model I have tried to identify opportunities to cross-sell savings accounts to new or existing customers based on their behavior and characteristics.
 
 In order to predict whether a client opens a savings account or not, a **Logistic Regression** was employed. The model used an underlying dataset of 45 211 customers, having a resulting accuracy of 87%.
 
